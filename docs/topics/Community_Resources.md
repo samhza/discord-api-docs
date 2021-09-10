@@ -29,6 +29,7 @@ Many of these libraries are represented in the [unofficial, community-driven Dis
 | [nyxx](https://github.com/l7ssha/Nyxx)                       | Dart       |
 | [coxir](https://github.com/satom99/coxir)                    | Elixir     |
 | [Nostrum](https://github.com/Kraigie/nostrum)                | Elixir     |
+| [arikawa](https://github.com/diamondburned/arikawa)          | Go         |
 | [DiscordGo](https://github.com/bwmarrin/discordgo)           | Go         |
 | [DisGord](https://github.com/andersfylling/disgord)          | Go         |
 | [catnip](https://github.com/mewna/catnip)                    | Java       |
